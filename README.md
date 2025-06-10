@@ -92,6 +92,6 @@ imputed_data, probs, preds = transformer.impute(X, x_vectors,
 
 Clone https://github.com/YerevaNN/mimic3-benchmarks and run all data generation steps to generate training data without text features.
 
-Additionally, this project references the [ClinicalNotesICU]([https://github.com/thuml/Autoformer](https://github.com/kaggarwal/ClinicalNotesICU)) repository for foundational implementations and ideas.
+Additionally, this project references the [ClinicalNotesICU]  (https://github.com/kaggarwal/ClinicalNotesICU)) repository for foundational implementations and ideas.
 
 
