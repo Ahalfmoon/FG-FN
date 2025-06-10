@@ -90,7 +90,8 @@ imputed_data, probs, preds = transformer.impute(X, x_vectors,
 - NumPy
 - Scikit-learn
 
-## 引用
+Clone https://github.com/YerevaNN/mimic3-benchmarks and run all data generation steps to generate training data without text features.
 
-如果您使用了本项目的代码,请引用以下论文:
-[论文引用信息]
+Additionally, this project references the [ClinicalNotesICU]([https://github.com/thuml/Autoformer](https://github.com/kaggarwal/ClinicalNotesICU)) repository for foundational implementations and ideas.
+
+
